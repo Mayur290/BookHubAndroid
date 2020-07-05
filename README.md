@@ -1,4 +1,4 @@
 # BookHubAndroid
 book app
 
-![GIF](https://github.com/Mayur290/BookHubAndroid/blob/master/media/app%20presentation/media.gif | width=100)
+<img src="https://github.com/Mayur290/BookHubAndroid/blob/master/media/app%20presentation/media.gif" width="250" height="4000"/>
